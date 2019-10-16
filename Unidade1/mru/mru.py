@@ -12,3 +12,4 @@ posicao_final = posicao_inicial + (velocidade*tempo) #essa linha é resposável 
 print ("Posição final do móvel") #essa linha representa a saída que o usuário espera
 print ("S(%.1f) = %.1f m" % (tempo, posicao_final)) #essa linha representa a saída que o usuário espera
 
+ 
